@@ -1,6 +1,6 @@
 # AI Reporting Agent
 
-Pulls data from GoHighLevel and Notion, runs it through an AI analysis layer, and delivers plain-English performance summaries to Slack or email — automatically, on your schedule.
+I built an AI agent that pulls live data from GoHighLevel and Notion, runs it through an AI analysis layer, and delivers a plain-English performance report straight to Slack or email — highlights, red flags, and what to act on next, on a fully automated schedule.
 
 ---
 
